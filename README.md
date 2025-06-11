@@ -1,12 +1,29 @@
-# Wireframe para Projeto DIO
+# 📱 Wireframe - App DIO
 
-## Descrição
-Wireframes de média fidelidade para o app mobile da DIO, criados no Figma.
+**Projeto desenvolvido para o bootcamp [NOME DO BOOTCAMP] na Digital Innovation One (DIO).**  
 
-## Telas
-- Home Screen: ![Home](/imagens/Thumbnails.png)
-- Detalhes do Curso: ![Course](/images/course-detail.png)
+---
 
-## Ferramentas
-- Figma
-- GitHub
+## 🖼️ Tela Principal (Home)
+![Tela de Boas-Vindas](./image.png)  
+*"Bem-vindo à DIO - Codifique seu futuro global agora"*
+
+---
+
+## 📄 Demais Telas
+Todas as outras telas estão consolidadas em um único arquivo:  
+[**wireframe.pdf**](./wireframe.pdf) *(Clique para visualizar)*
+
+---
+
+## 🛠️ Ferramentas Utilizadas
+- Figma  
+- GitHub  
+
+---
+### 📝 Como Executar
+1. Baixe o PDF para ver todas as telas  
+2. Visualize `image.png` para a tela inicial  
+
+---
+
