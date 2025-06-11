@@ -12,7 +12,7 @@
 
 ## 📄 Demais Telas
 Todas as outras telas estão consolidadas em um único arquivo:  
-[**wireframe.pdf**](./wireframe.pdf) *(Clique para visualizar)*
+[**wireframe.pdf**](./wireframe-dio.pdf) *(Clique para visualizar)*
 
 ---
 
