@@ -1,6 +1,6 @@
 # 📱 Wireframe - App DIO
 
-**Projeto desenvolvido para o bootcamp [NOME DO BOOTCAMP] na Digital Innovation One (DIO).**  
+**Projeto desenvolvido para o curso de Formação UX/UI Designer na Digital Innovation One (DIO).**  
 
 ---
 
